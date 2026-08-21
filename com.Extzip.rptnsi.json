@@ -4,9 +4,9 @@
   "exit_ad_link": "",
   "ad_status": "on",
   "ad_type": "admob",
-  "admob_rewarded_ad_id": "",
-  "admob_banner_unit_id": "",
-  "admob_interstitial_unit_id": "",
-  "admob_app_open_ad_unit_id": "",
-  "admob_native_id": ""
+  "admob_rewarded_ad_id": "ca-app-pub-8320002930826092/8392469211",
+  "admob_banner_unit_id": "ca-app-pub-8320002930826092/3331714223",
+  "admob_interstitial_unit_id": "ca-app-pub-8320002930826092/2018632559",
+  "admob_app_open_ad_unit_id": "ca-app-pub-8320002930826092/2969466153",
+  "admob_native_id": "ca-app-pub-8320002930826092/7079387541"
 }
