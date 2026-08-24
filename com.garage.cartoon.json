@@ -1,0 +1,22 @@
+{
+  "exit_ad_text": "",
+  "exit_ad_image": "",
+  "exit_ad_link": "",
+
+  "ad_status": "off",
+  "ad_type": "admob",
+
+  "admob_rewarded_ad_id": "ca-app-pub-3940256099942544/5224354917",
+  "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+  "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+  "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+  "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+
+  "update_status": "off",
+  "update_title": "تحديث جديد",
+  "update_message": " نسخة جديدة من التطبيق. خاصك تثبت التطبيق الجديد باش تكمل.",
+  "update_button_text": "تحديث الآن",
+
+  "update_url": "https://play.google.com/store/apps/details?id=com.dve.celebrationtop",
+  "update_package": "com.dve.celebrationtop"
+}
