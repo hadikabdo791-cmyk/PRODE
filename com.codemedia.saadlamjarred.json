@@ -2,11 +2,11 @@
   "exit_ad_text": "",
   "exit_ad_image": "",
   "exit_ad_link": "",
-  "ad_status": "on",
+  "ad_status": "off",
   "ad_type": "admob",
-  "admob_rewarded_ad_id": "ca-app-pub-8320002930826092/7370175355",
-  "admob_banner_unit_id": "ca-app-pub-8320002930826092/6688363089",
-  "admob_interstitial_unit_id": "ca-app-pub-8320002930826092/8057285079",
-  "admob_app_open_ad_unit_id": "ca-app-pub-8320002930826092/6433212219",
-  "admob_native_id": "ca-app-pub-8320002930826092/7746293885"
+  "admob_rewarded_ad_id": "ca-app-pub-8320002930826092/7370175355k",
+  "admob_banner_unit_id": "ca-app-pub-8320002930826092/6688363089k",
+  "admob_interstitial_unit_id": "ca-app-pub-8320002930826092/8057285079k",
+  "admob_app_open_ad_unit_id": "ca-app-pub-8320002930826092/6433212219k",
+  "admob_native_id": "ca-app-pub-8320002930826092/7746293885k"
 }
